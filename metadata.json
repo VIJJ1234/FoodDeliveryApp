@@ -1,0 +1,8 @@
+
+{
+  "name": "QuickBite Delivery",
+  "description": "A premium, responsive food delivery platform featuring real-time restaurant browsing, secure authentication, cart management, and order tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
